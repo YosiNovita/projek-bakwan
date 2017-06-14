@@ -1,3 +1,3 @@
 #!/usr/bin/phyton
 
-print "Yosi Novita"
+print "Yosi Novita Damayanti"
