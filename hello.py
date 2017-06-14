@@ -1,3 +1,3 @@
 #!/usr/bin/phyton
 
-print "Yosi"
+print "Yosi SMKN 1 KEDIRI"
